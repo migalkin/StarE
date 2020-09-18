@@ -36,8 +36,7 @@ Q965,P530,Q117,P805,Q2564434
 Q825807,P1889,Q502273
 ```
 
-
-In the above snippet for line 
+In the above snippet for line ```Q219546,P1411,Q103916,P805,Q369706,P1686,Q3241699```
 
 | Item | Description |
 | ------ | ------ |
@@ -49,4 +48,15 @@ In the above snippet for line
 | P1686 | qualifier relation 2 (qr_2) |
 | Q3241699 | qualifier entity 2 (qe_2) |
 
+#### When using the dataset please cite:
 
+```
+@inproceedings{StarE,
+  title={Message Passing for Hyper-Relational Knowledge Graphs},
+  author={Galkin, Mikhail and Trivedi, Priyansh and Maheshwari, Gaurav and Usbeck, Ricardo and Lehmann, Jens},
+  booktitle={EMNLP},
+  year={2020}
+}
+```
+
+For any further questions, please contact:  ```mikhail.galkin@iais.fraunhofer.de```
