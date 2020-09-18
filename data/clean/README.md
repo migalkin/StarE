@@ -11,7 +11,7 @@ The dataset is constructed by the following procedure based on the [Wikidata RDF
 -  WD50k_33, WD50k_66, WD50k_100 are then sampled from the above statements. Here 33, 66, 100 represents the amount of hyper-relational facts (statements with qualifiers) in the dataset.
 
 
-The table below provides some basic statistics of our dataset and its three further variations.:
+The table below provides some basic statistics of our dataset and its three further variations:
 
 | Dataset     | Statements | w/Quals (%)    | Entities | Relations | E only in Quals | R only in Quals | Train   | Valid  | Test   |
 |-------------|------------|----------------|----------|-----------|-----------------|-----------------|---------|--------|--------|
