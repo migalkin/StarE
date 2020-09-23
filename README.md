@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4036498.svg)](https://doi.org/10.5281/zenodo.4036498)
+
+
 # StarE
 Message Passing for Hyper-Relational Knowledge Graph. EMNLP 2020.
 
