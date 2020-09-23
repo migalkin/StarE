@@ -3,15 +3,14 @@
   StarE
 </h1>
 
+<h4 align="center">Message Passing for Hyper-Relational Knowledge Graph.</h4>
+
 
 <p align="center">
  
 <a href="https://doi.org/10.5281/zenodo.4036498"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4036498.svg" alt="DOI"></a>
 </p>
 
-
-# StarE
-Message Passing for Hyper-Relational Knowledge Graph. EMNLP 2020.
 
 ## Requirements
 * Python 3.7
