@@ -46,6 +46,7 @@ Its derivatives can be found there as well:
 * `wd50k_66` - approx 66% of statements have qualifiers
 * `wd50k_100` - 100% of statements have qualifiers
 
+More information available in dataset [README](https://github.com/migalkin/StarE/blob/master/data/clean/README.md)
 ## Running Experiments
 
 ### Available models
