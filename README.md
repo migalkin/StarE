@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center">
-  Overview of CompGCN
+  Overview of StarE
   <img align="center"  src="./architecture.png" alt="...">
 </h2>
 
