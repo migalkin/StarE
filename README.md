@@ -112,7 +112,7 @@ will construct StarE with hidden dim of 80 and concat as `gamma` function from t
 
 
 
-#### When using this codebase please cite:
+#### When using this codebase or dataset please cite:
 
 ```
 @inproceedings{StarE,
