@@ -13,6 +13,13 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 </p>
 
+<h2 align="center">
+  Overview of CompGCN
+  <img align="center"  src="./architecture.png" alt="...">
+</h2>
+
+StarE encodes hyper-relational fact by first passing Qualifier pairs through a composition function <img src="https://render.githubusercontent.com/render/math?math=\phi_q"> and then summed and transformed by <img src="https://render.githubusercontent.com/render/math?math=\mathbf{W}_q">.
+ The resulting vector is then merged via <img src="https://render.githubusercontent.com/render/math?math=\gamma">, and <img src="https://render.githubusercontent.com/render/math?math=\phi_r"> with the relation and object vector, respectively. Finally, node **Q937** aggregates messages from this and other hyper-relational edges. Please refer to the paper for details.
 
 ## Requirements
 * Python 3.7
@@ -98,3 +105,18 @@ If you want to adjust StarE encoder params prepend `GCN_` to the params in the `
 python run.py DATASET wd50k GCN_GCN_DIM 80 GCN_QUAL_AGGREGATE concat
 ```
 will construct StarE with hidden dim of 80 and concat as `gamma` function from the paper.
+
+
+
+#### When using the dataset please cite:
+
+```
+@inproceedings{StarE,
+  title={Message Passing for Hyper-Relational Knowledge Graphs},
+  author={Galkin, Mikhail and Trivedi, Priyansh and Maheshwari, Gaurav and Usbeck, Ricardo and Lehmann, Jens},
+  booktitle={EMNLP},
+  year={2020}
+}
+```
+
+For any further questions, please contact:  ```mikhail.galkin@iais.fraunhofer.de```
