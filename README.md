@@ -112,6 +112,22 @@ python run.py DATASET wd50k GCN_GCN_DIM 80 GCN_QUAL_AGGREGATE concat
 ```
 will construct StarE with hidden dim of 80 and concat as `gamma` function from the paper.
 
+### Integration with Weights & Biases (WANDB)
+
+It's there out of the box! Create an account on [WANDB](https://wandb.ai)
+Then, make sure you install the latest version of the package
+```
+pip install wandb
+```
+
+Locate your API_KEY in the user settings and activate it:
+```
+wandb login <api_key>
+```
+
+Then just use the CLI argument `WANDB True`, it will:
+* Create a `wikidata-embeddings` project in your active team
+* Create a run with a random name and log results there
 
 
 #### When using this codebase or dataset please cite:
