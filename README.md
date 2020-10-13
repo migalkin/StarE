@@ -14,6 +14,8 @@
 <a href="https://medium.com/@mgalkin/representation-learning-on-rdf-and-lpg-knowledge-graphs-6a92f2660241"><img src="https://img.shields.io/badge/Blog-Medium-03a87c"></a>
 <a href="https://wandb.ai/lilbert/wikidata-embeddings/reports/Report-StarE--VmlldzoyNDQzNjk?accessToken=ei25xjzbyvv3d4k87lu3tdi0cruzmjo3qzt446kdl7wagnqdam60sdhrecvqrees">
     <img src="https://img.shields.io/badge/Report-wandb-ffbf00"></a>
+<a href="https://paperswithcode.com/sota/link-prediction-on-wd50k?p=message-passing-for-hyper-relational">
+    <img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/message-passing-for-hyper-relational/link-prediction-on-wd50k"></a>
 </p>
 
 
