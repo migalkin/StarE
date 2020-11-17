@@ -10,7 +10,8 @@
 <a href="https://doi.org/10.5281/zenodo.4036498"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4036498.svg" alt="DOI"></a>
 <a href="https://github.com/migalkin/StarE/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-<a href="https://arxiv.org/abs/2009.10847"><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a>
+<a href="https://www.aclweb.org/anthology/2020.emnlp-main.596/"><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a>
+  <a href="https://slideslive.com/38939108/message-passing-for-hyperrelational-knowledge-graphs"><img src="https://img.shields.io/badge/Slideslive-talk-black"></a>
 <a href="https://medium.com/@mgalkin/representation-learning-on-rdf-and-lpg-knowledge-graphs-6a92f2660241"><img src="https://img.shields.io/badge/Blog-Medium-03a87c"></a>
 <a href="https://wandb.ai/lilbert/wikidata-embeddings/reports/Report-StarE--VmlldzoyNDQzNjk?accessToken=ei25xjzbyvv3d4k87lu3tdi0cruzmjo3qzt446kdl7wagnqdam60sdhrecvqrees">
     <img src="https://img.shields.io/badge/Report-wandb-ffbf00"></a>
